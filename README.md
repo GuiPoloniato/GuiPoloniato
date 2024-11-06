@@ -1,5 +1,3 @@
-## Hi! Humans
-
 <h2 align="left">Hi! My name is Guilherme poloniato and I'm a software engineering student from UniEvangélica-Goiás</h2>
 
 ###
